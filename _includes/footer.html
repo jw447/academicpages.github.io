@@ -6,14 +6,18 @@
     display: flex;
 }
 
-.column {
-    flex: 33%;
+.column1 {
+    flex: 70%;
+    height: 100px;
+}
+.column2 {
+    flex: 30%;
     height: 100px;
 }
 </style>
 
 <div class="row">
-  <div class="column">
+  <div class="column1">
     <a href="/sitemap/">Sitemap</a>
     <div class="page__footer-follow">
       <ul class="social-icons">
@@ -38,8 +42,7 @@
     <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
     </div>
   </div>
-  <div class="column"></div>
-  <div class="column">
+  <div class="column2">
     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=193&t=n&d=elHDRNQlufMUTI0Km7kpLHrfyOcARKLqe0AHduvBDWA'></script>
   </div>
 </div>
