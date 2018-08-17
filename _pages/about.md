@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinzhen Wang | Home Page"
+title : "Home Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
