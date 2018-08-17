@@ -11,11 +11,12 @@ redirect_from:
 About me
 --------
 
-I'm a PhD student of Computer Engineering at [New Jersey Institute of Technology](https://www.njit.edu/). I'm working with [Dr. Qing Liu](https://web.njit.edu/~qliu/) from ECE Department.
-
+I'm a PhD student of Computer Engineering at [New Jersey Institute of Technology](https://www.njit.edu/). I'm working with [Dr. Qing Liu](https://web.njit.edu/~qliu/) from ECE Department. My research interests lie in Big Data Computing and Machine Learning. Please drop by or drop me an [email](mailto: jon.wang1095@gmail.com) should you find any of my work interesting of have any questions.
 
 
 Recent News
 -----------
 
 * I will serve as teaching assistant for ECE Department from fall of 2018.
+
+* I joined the PhD program in fall of 2017.
