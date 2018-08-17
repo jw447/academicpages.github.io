@@ -55,4 +55,4 @@ Professional Service
 * ACM member
 * IEEE member
 
-[Checkout my full Curriculum Vitae in PDF](~/files/JinzhenWang_CV0817.pdf)
+[Checkout my full Curriculum Vitae in PDF](../files/JinzhenWang_CV0817.pdf)
