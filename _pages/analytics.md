@@ -1,5 +1,5 @@
 ---
-permalink: /analytics
+permalink: /analytics/
 ---
 
 <script>
