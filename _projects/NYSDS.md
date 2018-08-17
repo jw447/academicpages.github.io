@@ -1,15 +1,11 @@
 ---
-title: "Publications"
-collection: publications
-permalink: /publication/2017-08-06-robust_deep_learning
-date: 2017-08-06
-venue: 'Scientific Data Summit (NYSDS), 2017 New York'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/8085045/'
+title: "Robust and scalable deep learning for X-ray synchrotron image analysis
+collection: projects
 ---
 
-[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8085045&isnumber=8085031)
 
-N. Meister et al., "Robust and scalable deep learning for X-ray synchrotron image analysis," 2017 New York Scientific Data Summit (NYSDS), New York, NY, 2017, pp. 1-6.
+Robust and scalable deep learning for X-ray synchrotron image analysis
+----------------------------------------------------------------------
 
 Abstract
 --------
