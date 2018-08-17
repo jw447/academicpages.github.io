@@ -3,9 +3,6 @@ layout: archive
 permalink: /analytics
 ---
 
-
-
-
 <script>
 (function(w,d,s,g,js,fs){
   g=w.gapi||(w.gapi={});g.analytics={q:[],ready:function(f){this.q.push(f);}};
@@ -77,7 +74,7 @@ gapi.analytics.ready(function() {
    */
   gapi.analytics.auth.authorize({
     container: 'embed-api-auth-container',
-    clientid: 'REPLACE WITH YOUR CLIENT ID'
+    clientid: '108211258544-4v8bdul4l02ngp2v11h51lg03tqg83gj.apps.googleusercontent.com'
   });
 
 
