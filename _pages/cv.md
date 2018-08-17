@@ -18,36 +18,39 @@ Education
 Work experience
 ======
 
+* Fall 2018: Teaching Assistant
+  * Department of Electrical and Computer Engineering, NJIT
+  * Supervisor: Professor 
+
 * Spring 2018: Research Assistant
   * New Jersey Institute of Technology
   * Supervisor: Professor Qing Liu
-<!--   
+
+
+Publications
+============
+
+{% for post in site.publications %} {% include archive-single-cv.html %} {% endfor %}
+
+
+Talks
+=====
+
+{% for post in site.talks %} {% include archive-single-talk-cv.html %} {% endfor %}
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
- -->
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-*  -->
+* Python
+* C
+* MATLAB
+* R
 
-[Checkout my full Curriculum Vitae in PDF](./files/JinzhenWang_CV0817.pdf)
+
+Professional Service
+====================
+* Reviewer of ICPP
+* ACM member
+* IEEE member
+
+[Checkout my full Curriculum Vitae in PDF](~/files/JinzhenWang_CV0817.pdf)
