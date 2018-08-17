@@ -1,5 +1,16 @@
 {% include base_path %}
 
+<style>
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 33%;
+}
+</style>
+
 <div class="page__footer-follow">
   <div class="c1">
     <ul class="social-icons">
@@ -23,7 +34,8 @@
   </div>
   <div class="c2"></div>
   <div class="c3">
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=elHDRNQlufMUTI0Km7kpLHrfyOcARKLqe0AHduvBDWA&co=b3babf&cmn=ff5353&cmo=3acc3a&ct=ffffff'></script></div>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=elHDRNQlufMUTI0Km7kpLHrfyOcARKLqe0AHduvBDWA&co=b3babf&cmn=ff5353&cmo=3acc3a&ct=ffffff'></script>
+  </div>
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
