@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinzhen Wang / Home site"
+title                    : "Jinzhen Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "PhD student of Computer Engineering at New Jersey Institute of Technology"
