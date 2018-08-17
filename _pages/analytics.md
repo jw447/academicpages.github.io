@@ -39,22 +39,11 @@ permalink: /analytics/
 </div>
 
 
-
-<!-- This demo uses the Chart.js graphing library and Moment.js to do date
-     formatting and manipulation. -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js"></script>
-
-<!-- Include the ViewSelector2 component script. -->
 <script src="/public/javascript/embed-api/components/view-selector2.js"></script>
-
-<!-- Include the DateRangeSelector component script. -->
 <script src="/public/javascript/embed-api/components/date-range-selector.js"></script>
-
-<!-- Include the ActiveUsers component script. -->
 <script src="/public/javascript/embed-api/components/active-users.js"></script>
-
-<!-- Include the CSS that styles the charts. -->
 <link rel="stylesheet" href="/public/css/chartjs-visualizations.css">
 
 
@@ -98,10 +87,8 @@ gapi.analytics.ready(function() {
     var title = document.getElementById('view-name');
     title.textContent = data.property.name + ' (' + data.view.name + ')';
 
-    // Start tracking active users for this view.
     activeUsers.set(data).execute();
 
-    // Render all the of charts for this view.
     renderWeekOverWeekChart(data.ids);
     renderYearOverYearChart(data.ids);
     renderTopBrowsersChart(data.ids);
@@ -111,7 +98,7 @@ gapi.analytics.ready(function() {
 
   function renderWeekOverWeekChart(ids) {
 
-    var now = moment(); // .subtract(3, 'day');
+    var now = moment();
 
     var thisWeek = query({
       'ids': ids,
@@ -170,7 +157,7 @@ gapi.analytics.ready(function() {
 
   function renderYearOverYearChart(ids) {
 
-    var now = moment(); // .subtract(3, 'day');
+    var now = moment();
 
     var thisYear = query({
       'ids': ids,
