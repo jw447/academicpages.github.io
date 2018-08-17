@@ -1,3 +1,7 @@
+---
+permalink: /analytics
+---
+
 <script>
 (function(w,d,s,g,js,fs){
   g=w.gapi||(w.gapi={});g.analytics={q:[],ready:function(f){this.q.push(f);}};
