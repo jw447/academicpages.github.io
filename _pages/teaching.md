@@ -7,6 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-ECE000
-Venue: "TBD"
-Start date: 2018-09-04
+2018 Fall ECE000 Venue: "TBD" Start date: 2018-09-04
