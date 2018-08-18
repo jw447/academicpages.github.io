@@ -1,5 +1,5 @@
 ---
-title: "Robust and scalable deep learning for X-ray synchrotron image analysis
+title: "Robust and scalable deep learning for X-ray synchrotron image analysis"
 collection: publications
 permalink: /publications/nysds-deep-learning
 date: 2018-08-06
