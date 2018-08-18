@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Jinzhen Wang"
   avatar           : "profile.png"
-  bio              : "Computer Engieering"
+  bio              : "Computer Engineer"
   location         : "Newark, New Jersey"
   employer         :
   googlescholar    : #"https://scholar.google.com/citations?authuser=1&user=VlALYkkAAAAJ"
@@ -96,7 +96,7 @@ author:
   github           : "jw447"
   google_plus      :
   keybase          :
-  instagram        : #"jinzhen1825"
+  #instagram        : #"jinzhen1825"
   lastfm           : 
   linkedin         : "jinzhen-wang-54b6b0a8"
   orcid            : "http://orcid.org/0000-0001-6317-2940"
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  #twitter          : ""
   vine             :
   weibo            :
   xing             :
