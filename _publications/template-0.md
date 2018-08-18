@@ -3,8 +3,8 @@ title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/paper-title-number
 date: 2009-10-01
+venue: 
 ---
-
 ## Abstract
 
 
