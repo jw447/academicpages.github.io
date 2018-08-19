@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
----------
+## Education
+
 * B.S. in Internet of Things, Shandong University, 2015
 * M.S. in Electrical Engineering, New Jersey Institute of Technology, 2017
 * Ph.D in Computer Engineering, New Jersey Institute of Technology
 
-Work experience
----------------
+## Work experience
 
 * Fall 2018: Teaching Assistant
   * Department of Electrical and Computer Engineering, NJIT
@@ -27,20 +26,18 @@ Work experience
   * Supervisor: Professor Qing Liu
 
 
-Publications
-------------
+## Publications
 
 <!-- {% for post in site.publications %} {% include archive-single-cv.html %} {% endfor %} -->
 
 
-Talks
------
+
+## Talks
 
 <!-- {% for post in site.talks %} {% include archive-single-talk-cv.html %} {% endfor %} -->
 
 
-Skills
-------
+## Skills
 
 * Python
 * C
@@ -48,8 +45,7 @@ Skills
 * R
 
 
-Professional Service
---------------------
+## Professional Service
 
 * Reviewer of ICPP
 * ACM member
