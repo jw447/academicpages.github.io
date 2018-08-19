@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Template"
 collection: publications
-permalink: /publication/paper-title-number
+permalink: /publication/somepaper
 date: 2009-10-01
-venue: 
+venue: Somewhere
 ---
 
 
