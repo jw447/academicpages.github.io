@@ -1,5 +1,15 @@
 ### Visit me @ jw447.github.io
 
+Todo:
+
+- project content in /Projects
+
+- No tag, no collection, no social-sharing. Get rid of those html files.
+
+- Try to understand the meta data and page archive. Seems messy now.
+
+Aug26th, 2018
+
 -----------------------------------------------
 Instructions kindly offered by [academicpages](https://github.com/academicpages/academicpages.github.io) 
 
