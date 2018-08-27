@@ -21,7 +21,7 @@ redirect_from:
   * Department of Electrical and Computer Engineering, NJIT
   * Supervisor: Professor 
 
-* Spring 2018: Research Assistant
+* Spring 2018 to : Research Assistant
   * New Jersey Institute of Technology
   * Supervisor: Professor Qing Liu
 
