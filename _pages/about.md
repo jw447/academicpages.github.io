@@ -19,6 +19,6 @@ I'm a PhD student of Computer Engineering at [New Jersey Institute of Technology
 Recent News
 -----------
 
-* I will serve as teaching assistant for ECE Department from fall of 2018. Checkout the Teaching section for more details.
+* I will serve as teaching assistant for ECE Department from the fall of 2018. Checkout the Teaching section for more details.
 
-* I joined the PhD program in fall of 2017.
+* I joined the PhD program in the fall of 2017.
