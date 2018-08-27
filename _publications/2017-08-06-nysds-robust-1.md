@@ -1,6 +1,5 @@
 ---
 title: "Robust and scalable deep learning for X-ray synchrotron image analysis"
-collection: publications
 permalink: /publication/nysds-deep-learning
 date: 2017-08-06
 venue: Scientific Data Summit (NYSDS)
