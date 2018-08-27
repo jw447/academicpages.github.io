@@ -2,11 +2,13 @@
 
 Todo:
 
-- project content in /Projects
+- Add project content in /Projects.
 
 - No tag, no collection, no social-sharing. Get rid of those html files.
 
 - Try to understand the meta data and page archive. Seems messy now.
+
+- Mobile site needs fix.
 
 Aug26th, 2018
 
