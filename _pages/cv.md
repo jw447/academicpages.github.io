@@ -17,7 +17,7 @@ redirect_from:
 
 ## Work experience
 
-* Sep 2018 - Dec 2018: Instructor for ECE 394 Digitial Systems Lab
+* Sep 2018 - Dec 2018: Instructor of ECE 394 Digitial Systems Lab
   * Department of Electrical and Computer Engineering, NJIT
 
 * Feb 2018 - : Research Assistant
