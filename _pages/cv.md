@@ -14,7 +14,7 @@ redirect_from:
 * Ph.D in Computer Engineering, New Jersey Institute of Technology, 2018 - present
 * M.S. in Electrical Engineering, New Jersey Institute of Technology, 2015 - 2017
 * B.S. in Internet of Things, Shandong University, 2011 - 2015
-<br/>
+
 ## Work experience
 
 * Jan 2019 - May 2019: Instructor of ECE394 - Digitial Systems Lab
@@ -26,23 +26,16 @@ redirect_from:
 * Feb 2018 - present: Research Assistant
   * New Jersey Institute of Technology
   * Supervisor: Professor Qing Liu
-<br/>
+
 ## Publications
 
-<!-- <ul>{% for post in site.publications %} {% include archive-single-cv.html %} {% endfor %}</ul> -->
-
-
-<!-- ## Talks -->
-
-<!-- <ul>{% for post in site.talks %} {% include archive-single-talk-cv.html %} {% endfor %}</ul> -->
-<br/>
 ## Skills
 
 * Python
 * C
 * MATLAB
 * R
-<br/>
+
 ## Professional Service
 
 * Reviewer of ICPP
