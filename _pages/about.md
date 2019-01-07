@@ -18,8 +18,6 @@ I'm a PhD student of Electrical Engineering at [New Jersey Institute of Technolo
 Recent News
 -----------
 
-* I will serve as teaching instructor for ECE394 - Digital Systems Lab. [Jan 2019]
-
-* I will serve as teaching assistant for ECE Department from the fall of 2018. Checkout the Teaching section for more details. [August 2018]
-
+* I will serve as teaching instructor for ECE394 - Digital Systems Lab. [Jan 2019]<br/>
+* I will serve as teaching assistant for ECE Department from the fall of 2018. Checkout the Teaching section for more details. [August 2018]<br/>
 * I joined the PhD program of Electrical Engineering in the fall of 2017. [Jan 2019]
