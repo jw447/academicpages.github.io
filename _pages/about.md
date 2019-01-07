@@ -21,4 +21,4 @@ Recent News
 
 * I will serve as teaching instructor for ECE394 - Digital Systems Lab. [Jan 2019]<br/>
 * I will serve as teaching assistant for ECE Department from the fall of 2018. Checkout the Teaching section for more details. [August 2018]<br/>
-* I joined the PhD program of Electrical Engineering in the fall of 2017. [Jan 2019]
+* I joined the PhD program of Electrical Engineering in the fall of 2017. [Jan 2018]
