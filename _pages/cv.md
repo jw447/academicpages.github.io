@@ -11,16 +11,19 @@ redirect_from:
 
 ## Education
 
-* Ph.D in Computer Engineering, New Jersey Institute of Technology, 2018 -
+* Ph.D in Computer Engineering, New Jersey Institute of Technology, 2018 - present
 * M.S. in Electrical Engineering, New Jersey Institute of Technology, 2015 - 2017
 * B.S. in Internet of Things, Shandong University, 2011 - 2015
 
 ## Work experience
 
-* Sep 2018 - Dec 2018: Instructor of ECE 394 Digitial Systems Lab
+* Jan 2019 - May 2019: Instructor of ECE394 - Digitial Systems Lab
   * Department of Electrical and Computer Engineering, NJIT
 
-* Feb 2018 - : Research Assistant
+* Sep 2018 - Dec 2018: Instructor of ECE394 - Digitial Systems Lab
+  * Department of Electrical and Computer Engineering, NJIT
+
+* Feb 2018 - present: Research Assistant
   * New Jersey Institute of Technology
   * Supervisor: Professor Qing Liu
 
