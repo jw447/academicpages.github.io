@@ -52,4 +52,4 @@ redirect_from:
 * ACM member
 * IEEE member
 
-[Checkout my full Curriculum Vitae in PDF](../files/JinzhenWang_CV0817.pdf)
+[Checkout my full Curriculum Vitae in PDF (updated in Aug 2018)](../files/JinzhenWang_CV0817.pdf)
