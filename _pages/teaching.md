@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
 ## Spring 2019
 ### ECE394 Digital Systems Lab
 
