@@ -22,6 +22,8 @@ Venue: FMH 105
 Schedule: Monday 1:00 - 3:50pm, Sep 04th - Dec 10th;<br/>
 Venue: LSEC 302B
 
+Office hour: Monday 4:00 - 5:00pm, Sep 04th - Dec 10th;<br/>
+Venue: FMH 105
 ---
 
 <div>
