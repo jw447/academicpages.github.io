@@ -10,14 +10,16 @@ author_profile: true
 ## Spring 2019
 ### ECE394 Digital Systems Lab
 
-Schedule: Wednesday 6:00 - 9:00pm, Jan 22nd - May 16th;<br/>
-Venue: FMH 316
+Schedule: Wednesday 6:00 - 8:50pm, Jan 22nd - May 16th;<br/>
+Venue: LSEC 302A
 
+Office hour: Wednesday 5:00 - 6:00pm, Jan 22nd - May 16th;<br/>
+Venue: FMH 105
 
 ## Fall 2018
 ### ECE394 Digital Systems Lab
 
-Schedule: Monday 1:00 - 4:00pm, Sep 04th - Dec 10th;<br/>
+Schedule: Monday 1:00 - 3:50pm, Sep 04th - Dec 10th;<br/>
 Venue: LSEC 302B
 
 ---
