@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+<style>
+#more {display: none;}
+</style>
 
 ## Compression Ratio Modeling and Estimation Across Error Bounds for Lossy Compression
 
