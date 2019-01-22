@@ -19,7 +19,7 @@ I'm a PhD candidate of Electrical Engineering at [New Jersey Institute of Techno
 Recent News
 -----------
 
-* I will serve as teaching instructor for ECE394 - Digital Systems Lab. Checkout the Teaching section for more details. [January 2019]<br/>
+* I will serve as instructor for ECE394 - Digital Systems Lab. Checkout the Teaching section for more details. [January 2019]<br/>
 * I passed my QE and became a PhD candidate. [November 2018]<br/>
-* I will serve as teaching instructor for ECE394 - Digital Systems Lab. Checkout the Teaching section for more details. [August 2018]<br/>
+* I will serve as instructor for ECE394 - Digital Systems Lab. Checkout the Teaching section for more details. [August 2018]<br/>
 * I joined the PhD program of Electrical Engineering in the fall of 2017. [January 2018]
