@@ -24,6 +24,7 @@ Venue: LSEC 302B
 
 Office hour: Monday 4:00 - 5:00pm, Sep 04th - Dec 10th;<br/>
 Venue: FMH 105
+
 ---
 
 <div>
