@@ -9,10 +9,19 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+
+p {
+  text-align: justify;
+  letter-spacing: 2px;
+}
+
+</style>
+
 About me
 --------
 
-I'm a PhD candidate of Electrical Engineering at [New Jersey Institute of Technology](https://www.njit.edu/). I'm working with [Dr. Qing Liu](https://web.njit.edu/~qliu/) from ECE Department. My research interests include High Performance Computing, Cloud Computing and Machine Learning. Should you find any of my work interesting or have any questions, please fell free to contact me.
+<p>I'm a PhD candidate of Electrical Engineering at [New Jersey Institute of Technology](https://www.njit.edu/). I'm working with [Dr. Qing Liu](https://web.njit.edu/~qliu/) from ECE Department. My research interests include High Performance Computing, Cloud Computing and Machine Learning. Should you find any of my work interesting or have any questions, please fell free to contact me.</p>
 
 <!-- <font color="red"> * For affairs regarding my TA work, please contact me by <a href="mailto:jw447@njit.edu" target="_top">NJIT email</a>.</font> -->
 
