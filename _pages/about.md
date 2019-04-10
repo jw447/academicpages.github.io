@@ -24,7 +24,7 @@ pre { font-family: Lato; font-size: 11px; font-style: normal; font-variant: norm
 
 </style>
 
-<h1>About me</h>
+<h1>About me</h1>
 
 --------
 
