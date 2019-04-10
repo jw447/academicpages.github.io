@@ -32,8 +32,8 @@ pre { font-family: Lato; font-size: 11px; font-style: normal; font-variant: norm
 
 <h3>Recent News</h3>
 <ul>
-<li> I will teach ECE394 - Digital Systems Lab. Checkout the Teaching section for more details. [January 2019]</li>
-<li> I passed my QE and became a PhD candidate. [November 2018]</li>
-<li> I will teach ECE394 - Digital Systems Lab. Checkout the Teaching section for more details. [August 2018]</li>
-<li> I joined the PhD program of Electrical Engineering in the fall of 2017. [January 2018]</li>
+<li> <p>[Jan 2019] I will teach ECE394 - Digital Systems Lab. Checkout the Teaching section for more details.</p></li>
+<li> <p>[Nov 2018] I passed my QE and became a PhD candidate.</p></li>
+<li> <p>[Aug 2018]I will teach ECE394 - Digital Systems Lab. Checkout the Teaching section for more details.</p></li>
+<li> <p>[Jan 2018]I joined the PhD program of Electrical Engineering in the fall of 2017.</p></li>
 </ul>
