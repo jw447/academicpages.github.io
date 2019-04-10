@@ -12,11 +12,11 @@ redirect_from:
 <style>
 
 h1 { font-family: Lato; 
-    font-size: 23px; font-style: normal; font-variant: small-caps; font-weight: 400; line-height: 23px; } 
+    font-size: 25px; font-style: normal; font-variant: small-caps; font-weight: 400; line-height: 23px; } 
 
-h3 { font-family: Lato; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; } 
+h3 { font-family: Lato; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; } 
 
-p { font-family: Lato; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } 
+p { font-family: Lato; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } 
 
 blockquote { font-family: Lato; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } 
 
