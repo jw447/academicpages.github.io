@@ -9,12 +9,11 @@ body {
 }
 
 .img1 {
-  position: relative;
+  position: absolute;
+  left: 80%;
+  top: 5%;
   z-index: 2;
-  left: 12px;
-  top: 5px;
 }
-
 .content {
     background-color:white;
 	font-family:'Times',gfont; 
