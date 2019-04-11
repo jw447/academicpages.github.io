@@ -8,6 +8,11 @@ body {
 	margin:0;
 }
 
+.img1 {
+  position: relative;
+  z-index: 2;
+}
+
 .content {
     background-color:white;
 	font-family:'Times',gfont; 
