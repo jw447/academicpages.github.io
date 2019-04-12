@@ -10,7 +10,7 @@ body {
 
 .img1 {
   position: absolute;
-  left: 83px;
+  left: device-width - 100px;
   top: 10px;
   z-index: 2;
 }
