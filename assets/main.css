@@ -10,8 +10,8 @@ body {
 
 .img1 {
   position: absolute;
-  left: 83%;
-  top: 3%;
+  left: 83px;
+  top: 10px;
   z-index: 2;
 }
 .content {
