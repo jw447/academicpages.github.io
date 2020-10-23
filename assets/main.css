@@ -78,7 +78,7 @@ li.pub {
 }
 
 .site-navigation ul {
-	font-family:'Noteworthy',gfont; 
+	font-family:'Noteworthy'; 
 	text-rendering:optimizeLegibility;
 	font-size:100%;
 	font-weight:regular;
